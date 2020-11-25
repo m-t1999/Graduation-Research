@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import csv
 
 
-
+#Selenium
 driver = webdriver.Chrome()
 
 url = 'http://www.tennisabstract.com/' #開きたいページのURLをいれる
